@@ -14,7 +14,7 @@ var isInt = require('is-int');
 
 isInt(400);	// => true
 
-isInt("hello");	// => true
+isInt("hello");	// => false
 ```
 
 ## Author
